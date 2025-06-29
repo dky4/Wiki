@@ -8,7 +8,8 @@ title: Parallax Corrected Cubemaps
 This page covers Strata implementation of Parallax-Corrected Cubemaps, created with a combination of custom entities and materials.
 
 ## Overview
-https://docs.momentum-mod.org/shaders/parallax_corrected_cubemaps/ it's came from momentum mod
+> [!NOTE]
+>This page comes from [Momentum Mod's wiki.](https://docs.momentum-mod.org/shaders/parallax_corrected_cubemaps/)
 
 > [!NOTE]
 > Thanks to Brian Charles for his work on this feature.
@@ -16,7 +17,7 @@ https://docs.momentum-mod.org/shaders/parallax_corrected_cubemaps/ it's came fro
 
 ## Prerequisites 
 * Be proficient in using the Hammer Editor
-* Have the momentum/p2ce/revolution.fgd in your Hammer configuration
+* Have a Strats Source game FGD in your Hammer configuration
 * Know how to use the developer console
 ## Components of a Parallax-Corrected Cubemap
 
